@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=KnigtSpy
+Comment=KnigtSpy 🕵️ best tool for Information Gathering 🔎 
+Encoding=UTF-8
+Exec=sh -c "KnigtSpy;${SHELL:-bash}"
+Icon=KnigtSpy.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;
+X-Kali-Package=KnigtSpy
+Name[C]=KnigtSpy
